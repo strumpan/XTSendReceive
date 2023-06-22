@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ORDERS>
+	<order>
+		<header>
+			<ordernbr>12345</ordernbr>
+			<buyerid>10</buyerid>
+			<supplierid>3456789</supplierid>
+		</header>
+		<rows>
+			<row>
+				<rownbr>10</rownbr>
+			</row>
+		</rows>
+	</order>
+</ORDERS>
